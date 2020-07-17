@@ -1,0 +1,114 @@
+@charset "UTF-8";
+body{
+	width:100%;
+	font-size:18px
+}
+h1{
+	font-size:30px;
+}
+p{
+	font-size:23px;
+	color:blue
+}
+div{
+	width:60%;
+	margin-top:5%;
+	margin-left:auto
+}
+button{
+	font-size:15px;
+	width:120px;
+	height:30px
+}
+input{
+	font-size:15px
+}
+#err{
+	color:red
+}
+#submit_burron{
+	width:150px;
+	height:30px
+}
+#form_input{
+	width:150px;
+	height:30px
+}
+
+.div_ins{
+	width:80%
+}
+.tbl_line td{
+	border:1px solid black;
+	width:150px;
+	margin-left:auto;
+	margin-right:auto
+}
+.tbl_line{
+	border-collapse:collpse;
+	border:1px solid black
+
+}
+.tbl_chara{
+	border-collapse:collapse;
+	border:2px solid black
+}
+.tbl_chara th{
+	border:1px solid yellow;
+	background-color:black;
+	color:yellow
+}
+.tbl_chara td{
+	border:1px solid black;
+	background-color:#f9eb90
+}
+.tbl_chara_detail{
+	border-collapse:collapse;
+	border:2px solid black;
+
+}
+.tbl_chara_detal th{
+	border:1px solid yellow;
+	background-color:black;
+	color:yellow;
+	width:200px
+}
+.tbl_chata_detail td{
+	border:1px solid black;
+	background-color:#f9eb90;
+	text-align:center
+}
+.btn_user{
+	width:300px
+}
+.btm_menu{
+	width:160px
+}
+btn_logbk{
+	width:500px
+}
+.btn_def{
+	width:123px
+}
+.btn_back{
+	width:250px
+}
+
+.submit{
+	width:200px
+}
+.pdown{
+	width:170px;
+	background-color:#e6ef;
+	font-size:14px
+}
+.b_date{
+	width:50px;
+	background-color:#e6d6ef;
+	text-align:right
+}
+.image{
+	width:580px;
+	background-color:#e6e6ef;
+	font-size:14px
+}
